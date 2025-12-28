@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+
+# Data and Models
+*.zip
+*.h5
+dog-cat-full-dataset/
+dog-cat-full-dataset-master/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Models
+*.h5
+*.pth
+*.pkl
+models/
+
+# Logs
+logs/
+tensorboard/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints

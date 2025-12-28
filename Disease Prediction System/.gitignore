@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data and Models
+*.csv
+*.pkl
+archive/
+
+# Environments
+venv/
+env/

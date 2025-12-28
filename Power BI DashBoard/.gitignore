@@ -1,0 +1,16 @@
+# Power BI
+# Ignore temp files created by Power BI
+*.tmp
+*.log
+
+# Data
+*.csv
+# .pbix files are usually included if they are small, but large ones should be ignored
+# *.pbix
+
+# Images
+# Background Image.png
+
+# General
+.vscode/
+.DS_Store

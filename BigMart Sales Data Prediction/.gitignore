@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Data and Models
+*.csv
+*.pkl
+*.h5
+saved_models/
+
+# VS Code
+.vscode/

@@ -1,0 +1,30 @@
+# Python
+**/__pycache__/
+**/*.py[cod]
+
+# Virtual Environments
+**/venv/
+**/env/
+**/.venv/
+
+# Local configuration
+**/.vscode/
+**/.idea/
+**/.env
+
+# Large Binary Files (Datasets/Models)
+# Note: You might want to track small models, but large ones are ignored
+**/*.h5
+**/*.pkl
+**/*.pth
+**/*.pb
+**/*.zip
+**/*.csv
+**/*.bz2
+
+# Jupyter
+**/.ipynb_checkpoints
+
+# Logs
+**/logs/
+**/tensorboard/

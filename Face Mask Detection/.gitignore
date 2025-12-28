@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+
+# Data and Models
+*.h5
+archive/
+*.pkl

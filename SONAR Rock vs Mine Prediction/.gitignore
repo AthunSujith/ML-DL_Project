@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data and Models
+*.csv
+saved_models/
+*.pkl
+*.h5
+
+# Environments
+venv/
+env/
